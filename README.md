@@ -77,7 +77,7 @@ waiting times, and throughput.
 
 ## Repository Structure
 ```
-hospital-simulation/
+hospital-outpatient-simulation/
 ├── main.py
 ├── outputs/
 │ ├── doctor_queue_lengths.png
