@@ -74,8 +74,9 @@ waiting times, and throughput.
   - Doctor service times are reduced after lunch
 
 ---
-```
+
 ## Repository Structure
+```
 hospital-simulation/
 ├── main.py
 ├── outputs/
