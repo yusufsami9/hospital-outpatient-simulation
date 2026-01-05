@@ -86,12 +86,7 @@ hospital-simulation/
 
 ---
 
-## Requirements
 
-- Python 3.x
-- simpy
-- numpy
-- matplotlib
 
 ---
 
