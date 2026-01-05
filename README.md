@@ -106,7 +106,7 @@ Install dependencies with:
 ```bash
 pip install simpy numpy matplotlib
 ```
-How to Run
+## How to Run
 
 Run the simulation with:
 python main.py
@@ -114,31 +114,29 @@ python main.py
 Simulation parameters (e.g., number of doctors, lunch times, priority rules)
 are defined at the top of main.py.
 
-Output
+## Output
 
 The simulation produces:
 
-Detailed event logs (arrival, service start/end, departure)
+- Detailed event logs (arrival, service start/end, departure)
 
-Queue length plots for:
+- Queue length plots for:
 
-Doctors
+    - Doctors
+    - X-ray rooms
 
-X-ray rooms
+- Summary statistics including:
 
-Summary statistics including:
+  - Total patients served
 
-Total patients served
+  - Appointment vs. walk-in counts
 
-Appointment vs. walk-in counts
+  - Doctor workloads
 
-Doctor workloads
+  - X-ray utilization
 
-X-ray utilization
-
-Referral rates per doctor
+  - Referral rates per doctor
 
 
-Simulation parameters (e.g., number of doctors, lunch times, priority rules)
-are defined at the top of main.py.
+
 
